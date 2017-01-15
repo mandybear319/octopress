@@ -99,3 +99,13 @@ google_analytics_tracking_id:
 
 # Facebook Like
 facebook_like: false
+
+# Weibo  
+# Please refer to http://weibo.com/tool/weiboshow to get your uid and verifier.   
+weibo_uid: 5616963877          #WeiBo uid  
+weibo_verifier: 2b92bb86        #WeiBo verifier  
+weibo_showfans: false            #showfans  
+weibo_fansline: 0                    #fansline  
+weibo_show: true                    #show weibo  
+weibo_pic: true                        #show pic  
+weibo_skin: 10                        #skin
